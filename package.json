@@ -53,6 +53,7 @@
     "selenium": "2.41.0",
     "chromedriver": "2.9",
     "iedriver": "2.40.0",
-    "ios-driver": "0.6.6"
+    "ios-driver": "0.6.6",
+    "selendroid": "0.9.0"
   }
 }
