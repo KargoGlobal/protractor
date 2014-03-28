@@ -32,7 +32,8 @@
     "lodash": "~2.4.1",
     "rimraf": "~2.2.6",
     "dgeni": "~0.2.2",
-    "dgeni-packages": "~0.6.0"
+    "dgeni-packages": "~0.6.0",
+    "follow-redirects": "0.0.3"
   },
   "repository": {
     "type": "git",
@@ -51,6 +52,7 @@
   "webdriverVersions": {
     "selenium": "2.41.0",
     "chromedriver": "2.9",
-    "iedriver": "2.40.0"
+    "iedriver": "2.40.0",
+    "ios-driver": "0.6.6"
   }
 }
